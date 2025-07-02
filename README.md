@@ -163,13 +163,34 @@ Use the provided Postman collection to test the API.
 
 ---
 
+## 🛠 Nice to Have – If We Had More Time
+
+- **Stronger Validation & DTOs**  
+  Add more input validation rules and enforce structured value objects and DTOs for stricter data handling and clarity.
+
+- **Fetch Rate Limiting**  
+  Apply Symfony Messenger rate limiting on the fetch transport to avoid overwhelming external APIs.
+
+- **Scheduler Lock**  
+  Use Symfony's lock component to prevent multiple instances of the same scheduler from running concurrently.
+
+- **Redis Cache Warm-Up**  
+  Warm up Redis with frequently accessed data during boot or deploy to reduce cold-start latency.
+
+- **Doctrine + Redis Cache**  
+  Integrate Redis as a second-level cache for Doctrine to improve performance and reduce database load.
+
+- **Read Replicas with CQRS**  
+  Since the project follows CQRS, it's easy to scale reads by routing queries to separate read-only replicas.
+
+
 ## ⭐ Best Practices & Benefits
 
 1. **Encapsulated Domain**: No business logic leaks into infrastructure or UI.
 2. **Flexible CQRS**: Separate read/write models with synchronous query bus (`sync://`) and asynchronous command bus.
 3. **Ports & Adapters**: Easy to swap Redis, Doctrine, or add new competitor SDKs or APIs without affecting core logic.
 4. **Scheduler + Messenger**: Scalable batch processing with retry, fault tolerance, and separate streams.
-5. **Testable & Maintainable**: Full unit tests for adapters, services, and providers.
+5. **Testable & Maintainable**: Full unit/ integration tests for adapters, services, and providers.
 
 ---
 
