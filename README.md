@@ -105,6 +105,20 @@ A typical end-to-end price-fetch workflow:
 
 ---
 
+## 🐘 FrankenPHP Runtime
+
+This project leverages the modern PHP runtime **FrankenPHP**, which bundles Caddy and PHP in one, providing:
+
+- **Integrated HTTP workers** running PHP threads directly (no PHP-FPM required)
+- **Warm OPcache** for faster PHP execution
+- **Automatic HTTPS** via Caddy’s built-in self-signed certificates
+- **Reduced container layers**, eliminating the need for Nginx or extra proxies
+- **Improved performance** and simplified deployment
+
+FrankenPHP is enabled by default Via Docker setup, so you don’t need to install or configure separate web servers or PHP-FPM processes.
+
+---
+
 ## 🛠️ Makefile Commands
 
 ```bash
