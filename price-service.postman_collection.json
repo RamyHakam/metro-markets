@@ -1,0 +1,63 @@
+{
+	"info": {
+		"_postman_id": "58a33fe4-86c7-41c0-87b6-2f6b492c39d7",
+		"name": "postman-collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "2851743"
+	},
+	"item": [
+		{
+			"name": "Get Lowest Price By Id Request",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "52dd4d6d-c4e4-37d6-be2b-efe0bf4bf5ee",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8001/api/price/7",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8001",
+					"path": [
+						"api",
+						"price",
+						"7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Lowest Price  For All Products Request",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "52dd4d6d-c4e4-37d6-be2b-efe0bf4bf5ee",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8001/api/price",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8001",
+					"path": [
+						"api",
+						"price"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
