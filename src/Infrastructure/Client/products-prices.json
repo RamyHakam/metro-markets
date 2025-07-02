@@ -1,0 +1,1302 @@
+[
+    {
+        "id": 1,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 58.36
+            },
+            {
+                "name": "VendorFive",
+                "amount": 75.83
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 71.32
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 99.18
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 86.93
+            },
+            {
+                "name": "VendorFive",
+                "amount": 62.57
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 24.94
+            },
+            {
+                "name": "VendorFive",
+                "amount": 88.54
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 26.98
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 71.76
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 81.69
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 49.24
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 52.18
+            },
+            {
+                "name": "VendorOne",
+                "amount": 69.54
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 97.1
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 82.12
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 90.18
+            },
+            {
+                "name": "VendorOne",
+                "amount": 18.89
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 11.88
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 42.02
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 62.55
+            },
+            {
+                "name": "VendorFour",
+                "amount": 22.17
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 28.15
+            },
+            {
+                "name": "VendorFour",
+                "amount": 45.94
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 64.4
+            },
+            {
+                "name": "VendorFour",
+                "amount": 65.97
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 69.98
+            },
+            {
+                "name": "VendorFour",
+                "amount": 64.92
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 11.69
+            },
+            {
+                "name": "VendorThree",
+                "amount": 41.36
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 78.24
+            },
+            {
+                "name": "VendorThree",
+                "amount": 82.27
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 73.45
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 22.21
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 87.72
+            },
+            {
+                "name": "VendorOne",
+                "amount": 88.21
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 34.88
+            },
+            {
+                "name": "VendorOne",
+                "amount": 15.93
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 18.64
+            },
+            {
+                "name": "VendorOne",
+                "amount": 28.24
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 57.94
+            },
+            {
+                "name": "VendorOne",
+                "amount": 91.59
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 17.59
+            },
+            {
+                "name": "VendorFive",
+                "amount": 85.19
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 87.49
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 20.89
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 28.52
+            },
+            {
+                "name": "VendorThree",
+                "amount": 12.57
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 35.32
+            },
+            {
+                "name": "VendorFive",
+                "amount": 38.53
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 34.04
+            },
+            {
+                "name": "VendorFour",
+                "amount": 22.95
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 53.62
+            },
+            {
+                "name": "VendorOne",
+                "amount": 18.23
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 95.54
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 86.56
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 92.98
+            },
+            {
+                "name": "VendorThree",
+                "amount": 39.32
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 90.28
+            },
+            {
+                "name": "VendorThree",
+                "amount": 77.6
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 59.4
+            },
+            {
+                "name": "VendorFour",
+                "amount": 65.66
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 30.71
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 79.04
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 53.01
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 26.65
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 74.24
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 25.67
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 17.66
+            },
+            {
+                "name": "VendorFour",
+                "amount": 15.5
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 67.52
+            },
+            {
+                "name": "VendorThree",
+                "amount": 82.34
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 84.69
+            },
+            {
+                "name": "VendorFive",
+                "amount": 79.69
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 83.25
+            },
+            {
+                "name": "VendorOne",
+                "amount": 71.51
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 24.71
+            },
+            {
+                "name": "VendorThree",
+                "amount": 81.86
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 45.07
+            },
+            {
+                "name": "VendorFive",
+                "amount": 88.1
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 41.66
+            },
+            {
+                "name": "VendorFive",
+                "amount": 72.63
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 59.55
+            },
+            {
+                "name": "VendorFive",
+                "amount": 72.22
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 13.14
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 59.08
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 61.24
+            },
+            {
+                "name": "VendorOne",
+                "amount": 16.78
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 63.55
+            },
+            {
+                "name": "VendorFour",
+                "amount": 53.06
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 48.03
+            },
+            {
+                "name": "VendorFive",
+                "amount": 74.85
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 74.56
+            },
+            {
+                "name": "VendorFive",
+                "amount": 42.81
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 36.65
+            },
+            {
+                "name": "VendorOne",
+                "amount": 89.94
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 95.07
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 59.98
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 20.52
+            },
+            {
+                "name": "VendorThree",
+                "amount": 27.43
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 37.68
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 66.0
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 29.55
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 48.5
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 66.31
+            },
+            {
+                "name": "VendorFive",
+                "amount": 32.14
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 17.84
+            },
+            {
+                "name": "VendorThree",
+                "amount": 15.59
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 38.12
+            },
+            {
+                "name": "VendorThree",
+                "amount": 45.1
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 52.0
+            },
+            {
+                "name": "VendorThree",
+                "amount": 11.9
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 15.09
+            },
+            {
+                "name": "VendorFour",
+                "amount": 82.56
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 51.87
+            },
+            {
+                "name": "VendorOne",
+                "amount": 17.95
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 49.27
+            },
+            {
+                "name": "VendorFour",
+                "amount": 55.99
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 12.11
+            },
+            {
+                "name": "VendorThree",
+                "amount": 22.66
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 98.96
+            },
+            {
+                "name": "VendorThree",
+                "amount": 63.46
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 57.11
+            },
+            {
+                "name": "VendorFour",
+                "amount": 43.55
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 21.18
+            },
+            {
+                "name": "VendorFive",
+                "amount": 81.26
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 57.61
+            },
+            {
+                "name": "VendorFour",
+                "amount": 41.17
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 28.8
+            },
+            {
+                "name": "VendorThree",
+                "amount": 80.65
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 24.3
+            },
+            {
+                "name": "VendorFive",
+                "amount": 20.9
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 65.01
+            },
+            {
+                "name": "VendorOne",
+                "amount": 63.75
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 49.55
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 12.89
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 62.03
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 26.69
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 65.83
+            },
+            {
+                "name": "VendorOne",
+                "amount": 66.37
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 41.81
+            },
+            {
+                "name": "VendorFive",
+                "amount": 34.89
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 42.47
+            },
+            {
+                "name": "VendorFour",
+                "amount": 19.75
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 20.97
+            },
+            {
+                "name": "VendorThree",
+                "amount": 60.63
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 55.8
+            },
+            {
+                "name": "VendorOne",
+                "amount": 10.48
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 41.74
+            },
+            {
+                "name": "VendorFive",
+                "amount": 72.74
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 84.37
+            },
+            {
+                "name": "VendorThree",
+                "amount": 59.83
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 55.06
+            },
+            {
+                "name": "VendorOne",
+                "amount": 22.98
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 96.74
+            },
+            {
+                "name": "VendorThree",
+                "amount": 29.13
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 51.91
+            },
+            {
+                "name": "VendorThree",
+                "amount": 76.96
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 31.44
+            },
+            {
+                "name": "VendorFour",
+                "amount": 90.94
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 32.81
+            },
+            {
+                "name": "VendorFour",
+                "amount": 63.85
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 55.62
+            },
+            {
+                "name": "VendorThree",
+                "amount": 58.46
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 85.04
+            },
+            {
+                "name": "VendorOne",
+                "amount": 51.6
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 76.01
+            },
+            {
+                "name": "VendorThree",
+                "amount": 38.51
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 59.65
+            },
+            {
+                "name": "VendorFour",
+                "amount": 77.38
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 20.89
+            },
+            {
+                "name": "VendorThree",
+                "amount": 17.76
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 13.21
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 29.7
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 63.18
+            },
+            {
+                "name": "VendorFour",
+                "amount": 60.58
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 11.34
+            },
+            {
+                "name": "VendorThree",
+                "amount": 56.0
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 27.2
+            },
+            {
+                "name": "VendorFour",
+                "amount": 16.29
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "competitor_data": [
+            {
+                "name": "VendorThree",
+                "amount": 48.42
+            },
+            {
+                "name": "VendorOne",
+                "amount": 37.29
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 36.12
+            },
+            {
+                "name": "VendorFour",
+                "amount": 70.84
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 35.13
+            },
+            {
+                "name": "VendorFive",
+                "amount": 82.2
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 65.03
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 11.29
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "competitor_data": [
+            {
+                "name": "VendorFive",
+                "amount": 10.07
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 73.6
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 65.4
+            },
+            {
+                "name": "VendorThree",
+                "amount": 84.46
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 57.63
+            },
+            {
+                "name": "VendorFive",
+                "amount": 39.91
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "competitor_data": [
+            {
+                "name": "VendorOne",
+                "amount": 93.04
+            },
+            {
+                "name": "VendorFive",
+                "amount": 39.52
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "competitor_data": [
+            {
+                "name": "VendorTwo",
+                "amount": 79.31
+            },
+            {
+                "name": "VendorFive",
+                "amount": 57.77
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "competitor_data": [
+            {
+                "name": "VendorFour",
+                "amount": 91.91
+            },
+            {
+                "name": "VendorTwo",
+                "amount": 45.66
+            }
+        ]
+    }
+]
