@@ -5,7 +5,7 @@ namespace DummySdk;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Response;
 
-final  readonly class DummySdkClient
+final  class DummySdkClient
 {
     /**
      * This is a Fake SDK client simulating external competitor pricing SDK.
@@ -16,7 +16,9 @@ final  readonly class DummySdkClient
     private string $dataFile;
     public function __construct()
     {
-        $this->dataFile = __DIR__ . '/Competitor-products-prices.json';
+   //     $this->dataFile = __DIR__ . '/Competitor-products-prices.json';
+        // we can use this for retries failed fetches again
+         $this->dataFile = __DIR__ . '/New-products-added.json';
     }
 
     public function getPrices(int $productId): JsonResponse

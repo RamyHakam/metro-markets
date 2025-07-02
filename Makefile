@@ -55,7 +55,7 @@ start-scheduler:
 	@echo "Starting scheduler consumer (foreground with logs)..."
 	$(DOCKER_APP_EXEC) bin/console messenger:consume scheduler_fetch_prices -vv
 
-stop-scheduler:
+stop-workers:
 	@echo "Stopping messenger workers gracefully..."
 	$(DOCKER_APP_EXEC) bin/console messenger:stop-workers
 
@@ -68,8 +68,12 @@ process-queue:
 	@echo "Consuming process_transport queue..."
 	$(DOCKER_APP_EXEC) bin/console messenger:consume process_transport -vv
 
-queues: fetch-queue process-queue
-	@echo "All queues started (run each in separate terminals if desired)."
+failed-queue:
+	@echo "Consuming failed transport queue..."
+	$(DOCKER_APP_EXEC) bin/console messenger:consume failed -vv
+
+queues: fetch-queue process-queue failed-queue
+	@echo "All queues started"
 
 # Redis maintenance
 flush-redis:

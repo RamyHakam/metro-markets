@@ -7,6 +7,17 @@ doctrine:
         auto_generate_proxy_classes: true
         enable_lazy_ghost_objects: true
         report_fields_where_declared: true
+
+        query_cache_driver:
+            type: pool
+            pool: doctrine_query_cache
+
+        result_cache_driver:
+            type: pool
+            pool: doctrine_query_cache
+
+        second_level_cache:
+            enabled: true
         validate_xml_mapping: true
         naming_strategy: doctrine.orm.naming_strategy.underscore_number_aware
         identity_generation_preferences:
