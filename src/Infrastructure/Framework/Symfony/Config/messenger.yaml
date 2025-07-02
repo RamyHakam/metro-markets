@@ -1,0 +1,30 @@
+framework:
+    messenger:
+        buses:
+            query.bus: ~
+        failure_transport: failed
+
+        transports:
+            sync: 'sync://'
+            fetch_transport:
+                dsn: '%env(MESSENGER_FETCH_TRANSPORT_DSN)%/1?stream=fetch_stream'
+                options:
+                    auto_setup: true
+                retry_strategy:
+                    max_retries: 3
+                    delay: 1000
+                    multiplier: 2
+                    max_delay: 10000
+
+            process_transport:
+                dsn: '%env(MESSENGER_PROCESS_TRANSPORT_DSN)%/1?stream=process_stream'
+                options:
+                    auto_setup: true
+                retry_strategy:
+                    max_retries: 3
+                    delay: 1000
+                    multiplier: 2
+                    max_delay: 10000
+
+            failed: '%env(MESSENGER_FAILED_TRANSPORT_DSN)%1?stream=failed_stream'
+

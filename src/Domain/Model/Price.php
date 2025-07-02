@@ -9,12 +9,11 @@ use DateTimeImmutable;
 final readonly class Price
 {
     public function __construct(
-        public  ProductId $id,
-        public  string $vendorName,
-        public PriceAmount $price,
+        public  ProductId         $productId,
+        public  string            $vendorName,
+        public PriceAmount        $priceAmount,
         public  DateTimeImmutable $fetchedAt
     )
     {
     }
-
 }

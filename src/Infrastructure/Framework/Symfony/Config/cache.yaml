@@ -1,0 +1,6 @@
+framework:
+    cache:
+        default_redis_provider: '%env(REDIS_URL)%'
+        pools:
+            lowest_price_cache:
+                adapter: cache.adapter.redis

@@ -1,3 +1,5 @@
+imports:
+    - { resource: '../../src/Infrastructure/Framework/Symfony/Config/cache.yaml' }
 framework:
     cache:
         # Unique name of your app: used to compute stable namespaces for cache keys.

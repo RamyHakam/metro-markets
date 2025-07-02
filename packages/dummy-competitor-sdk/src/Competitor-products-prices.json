@@ -1,0 +1,1302 @@
+[
+    {
+        "product_id": 1,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 92.46
+            },
+            {
+                "vendor": "ShopC",
+                "price": 47.22
+            }
+        ]
+    },
+    {
+        "product_id": 2,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 19.94
+            },
+            {
+                "vendor": "ShopD",
+                "price": 39.43
+            }
+        ]
+    },
+    {
+        "product_id": 3,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 96.81
+            },
+            {
+                "vendor": "ShopF",
+                "price": 7.26
+            }
+        ]
+    },
+    {
+        "product_id": 4,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 49.7
+            },
+            {
+                "vendor": "ShopE",
+                "price": 91.98
+            }
+        ]
+    },
+    {
+        "product_id": 5,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 35.63
+            },
+            {
+                "vendor": "ShopA",
+                "price": 21.7
+            }
+        ]
+    },
+    {
+        "product_id": 6,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 53.14
+            },
+            {
+                "vendor": "ShopA",
+                "price": 71.79
+            }
+        ]
+    },
+    {
+        "product_id": 7,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 24.34
+            },
+            {
+                "vendor": "ShopG",
+                "price": 36.95
+            }
+        ]
+    },
+    {
+        "product_id": 8,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 68.58
+            },
+            {
+                "vendor": "ShopG",
+                "price": 72.23
+            }
+        ]
+    },
+    {
+        "product_id": 9,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 22.14
+            },
+            {
+                "vendor": "ShopC",
+                "price": 14.26
+            }
+        ]
+    },
+    {
+        "product_id": 10,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 19.99
+            },
+            {
+                "vendor": "ShopH",
+                "price": 55.7
+            }
+        ]
+    },
+    {
+        "product_id": 11,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 86.49
+            },
+            {
+                "vendor": "ShopF",
+                "price": 50.01
+            }
+        ]
+    },
+    {
+        "product_id": 12,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 57.46
+            },
+            {
+                "vendor": "ShopD",
+                "price": 88.47
+            }
+        ]
+    },
+    {
+        "product_id": 13,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 30.51
+            },
+            {
+                "vendor": "ShopC",
+                "price": 17.16
+            }
+        ]
+    },
+    {
+        "product_id": 14,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 89.16
+            },
+            {
+                "vendor": "ShopB",
+                "price": 66.76
+            }
+        ]
+    },
+    {
+        "product_id": 15,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 31.53
+            },
+            {
+                "vendor": "ShopC",
+                "price": 74.62
+            }
+        ]
+    },
+    {
+        "product_id": 16,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 21.05
+            },
+            {
+                "vendor": "ShopE",
+                "price": 72.69
+            }
+        ]
+    },
+    {
+        "product_id": 17,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 55.19
+            },
+            {
+                "vendor": "ShopD",
+                "price": 8.03
+            }
+        ]
+    },
+    {
+        "product_id": 18,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 36.09
+            },
+            {
+                "vendor": "ShopE",
+                "price": 89.09
+            }
+        ]
+    },
+    {
+        "product_id": 19,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 44.22
+            },
+            {
+                "vendor": "ShopB",
+                "price": 92.28
+            }
+        ]
+    },
+    {
+        "product_id": 20,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 78.86
+            },
+            {
+                "vendor": "ShopF",
+                "price": 48.9
+            }
+        ]
+    },
+    {
+        "product_id": 21,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 64.15
+            },
+            {
+                "vendor": "ShopH",
+                "price": 73.9
+            }
+        ]
+    },
+    {
+        "product_id": 22,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 15.91
+            },
+            {
+                "vendor": "ShopD",
+                "price": 98.86
+            }
+        ]
+    },
+    {
+        "product_id": 23,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 91.53
+            },
+            {
+                "vendor": "ShopB",
+                "price": 76.21
+            }
+        ]
+    },
+    {
+        "product_id": 24,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 35.38
+            },
+            {
+                "vendor": "ShopA",
+                "price": 18.15
+            }
+        ]
+    },
+    {
+        "product_id": 25,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 93.74
+            },
+            {
+                "vendor": "ShopE",
+                "price": 53.25
+            }
+        ]
+    },
+    {
+        "product_id": 26,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 53.61
+            },
+            {
+                "vendor": "ShopA",
+                "price": 92.48
+            }
+        ]
+    },
+    {
+        "product_id": 27,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 44.59
+            },
+            {
+                "vendor": "ShopH",
+                "price": 10.56
+            }
+        ]
+    },
+    {
+        "product_id": 28,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 61.91
+            },
+            {
+                "vendor": "ShopB",
+                "price": 49.64
+            }
+        ]
+    },
+    {
+        "product_id": 29,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 47.68
+            },
+            {
+                "vendor": "ShopH",
+                "price": 22.21
+            }
+        ]
+    },
+    {
+        "product_id": 30,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 76.14
+            },
+            {
+                "vendor": "ShopB",
+                "price": 67.89
+            }
+        ]
+    },
+    {
+        "product_id": 31,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 11.29
+            },
+            {
+                "vendor": "ShopC",
+                "price": 55.31
+            }
+        ]
+    },
+    {
+        "product_id": 32,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 38.14
+            },
+            {
+                "vendor": "ShopA",
+                "price": 36.41
+            }
+        ]
+    },
+    {
+        "product_id": 33,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 98.5
+            },
+            {
+                "vendor": "ShopE",
+                "price": 59.55
+            }
+        ]
+    },
+    {
+        "product_id": 34,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 85.85
+            },
+            {
+                "vendor": "ShopE",
+                "price": 67.49
+            }
+        ]
+    },
+    {
+        "product_id": 35,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 5.93
+            },
+            {
+                "vendor": "ShopG",
+                "price": 45.65
+            }
+        ]
+    },
+    {
+        "product_id": 36,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 74.78
+            },
+            {
+                "vendor": "ShopA",
+                "price": 90.43
+            }
+        ]
+    },
+    {
+        "product_id": 37,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 58.22
+            },
+            {
+                "vendor": "ShopH",
+                "price": 60.41
+            }
+        ]
+    },
+    {
+        "product_id": 38,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 8.43
+            },
+            {
+                "vendor": "ShopF",
+                "price": 69.1
+            }
+        ]
+    },
+    {
+        "product_id": 39,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 80.11
+            },
+            {
+                "vendor": "ShopG",
+                "price": 32.97
+            }
+        ]
+    },
+    {
+        "product_id": 40,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 35.4
+            },
+            {
+                "vendor": "ShopG",
+                "price": 33.72
+            }
+        ]
+    },
+    {
+        "product_id": 41,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 8.84
+            },
+            {
+                "vendor": "ShopC",
+                "price": 56.23
+            }
+        ]
+    },
+    {
+        "product_id": 42,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 15.93
+            },
+            {
+                "vendor": "ShopB",
+                "price": 30.03
+            }
+        ]
+    },
+    {
+        "product_id": 43,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 97.03
+            },
+            {
+                "vendor": "ShopC",
+                "price": 54.64
+            }
+        ]
+    },
+    {
+        "product_id": 44,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 83.96
+            },
+            {
+                "vendor": "ShopG",
+                "price": 85.41
+            }
+        ]
+    },
+    {
+        "product_id": 45,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 69.17
+            },
+            {
+                "vendor": "ShopF",
+                "price": 71.57
+            }
+        ]
+    },
+    {
+        "product_id": 46,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 46.17
+            },
+            {
+                "vendor": "ShopG",
+                "price": 33.5
+            }
+        ]
+    },
+    {
+        "product_id": 47,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 17.9
+            },
+            {
+                "vendor": "ShopA",
+                "price": 11.52
+            }
+        ]
+    },
+    {
+        "product_id": 48,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 68.56
+            },
+            {
+                "vendor": "ShopF",
+                "price": 59.1
+            }
+        ]
+    },
+    {
+        "product_id": 49,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 78.21
+            },
+            {
+                "vendor": "ShopD",
+                "price": 24.4
+            }
+        ]
+    },
+    {
+        "product_id": 50,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 44.58
+            },
+            {
+                "vendor": "ShopG",
+                "price": 82.5
+            }
+        ]
+    },
+    {
+        "product_id": 51,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 40.81
+            },
+            {
+                "vendor": "ShopB",
+                "price": 68.93
+            }
+        ]
+    },
+    {
+        "product_id": 52,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 97.22
+            },
+            {
+                "vendor": "ShopH",
+                "price": 15.45
+            }
+        ]
+    },
+    {
+        "product_id": 53,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 26.45
+            },
+            {
+                "vendor": "ShopE",
+                "price": 97.73
+            }
+        ]
+    },
+    {
+        "product_id": 54,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 56.18
+            },
+            {
+                "vendor": "ShopH",
+                "price": 5.39
+            }
+        ]
+    },
+    {
+        "product_id": 55,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 17.14
+            },
+            {
+                "vendor": "ShopH",
+                "price": 29.94
+            }
+        ]
+    },
+    {
+        "product_id": 56,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 77.89
+            },
+            {
+                "vendor": "ShopC",
+                "price": 79.67
+            }
+        ]
+    },
+    {
+        "product_id": 57,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 42.97
+            },
+            {
+                "vendor": "ShopH",
+                "price": 9.81
+            }
+        ]
+    },
+    {
+        "product_id": 58,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 83.45
+            },
+            {
+                "vendor": "ShopA",
+                "price": 28.56
+            }
+        ]
+    },
+    {
+        "product_id": 59,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 92.47
+            },
+            {
+                "vendor": "ShopG",
+                "price": 56.26
+            }
+        ]
+    },
+    {
+        "product_id": 60,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 53.72
+            },
+            {
+                "vendor": "ShopA",
+                "price": 39.86
+            }
+        ]
+    },
+    {
+        "product_id": 61,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 90.76
+            },
+            {
+                "vendor": "ShopE",
+                "price": 82.31
+            }
+        ]
+    },
+    {
+        "product_id": 62,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 11.7
+            },
+            {
+                "vendor": "ShopC",
+                "price": 97.7
+            }
+        ]
+    },
+    {
+        "product_id": 63,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 23.22
+            },
+            {
+                "vendor": "ShopD",
+                "price": 38.54
+            }
+        ]
+    },
+    {
+        "product_id": 64,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 62.2
+            },
+            {
+                "vendor": "ShopE",
+                "price": 27.87
+            }
+        ]
+    },
+    {
+        "product_id": 65,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 6.02
+            },
+            {
+                "vendor": "ShopE",
+                "price": 72.97
+            }
+        ]
+    },
+    {
+        "product_id": 66,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 81.53
+            },
+            {
+                "vendor": "ShopA",
+                "price": 48.14
+            }
+        ]
+    },
+    {
+        "product_id": 67,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 41.38
+            },
+            {
+                "vendor": "ShopC",
+                "price": 6.14
+            }
+        ]
+    },
+    {
+        "product_id": 68,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 67.06
+            },
+            {
+                "vendor": "ShopH",
+                "price": 77.6
+            }
+        ]
+    },
+    {
+        "product_id": 69,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 52.6
+            },
+            {
+                "vendor": "ShopD",
+                "price": 28.91
+            }
+        ]
+    },
+    {
+        "product_id": 70,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 69.52
+            },
+            {
+                "vendor": "ShopH",
+                "price": 53.38
+            }
+        ]
+    },
+    {
+        "product_id": 71,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 14.0
+            },
+            {
+                "vendor": "ShopH",
+                "price": 71.0
+            }
+        ]
+    },
+    {
+        "product_id": 72,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 96.17
+            },
+            {
+                "vendor": "ShopF",
+                "price": 26.1
+            }
+        ]
+    },
+    {
+        "product_id": 73,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 37.47
+            },
+            {
+                "vendor": "ShopC",
+                "price": 83.07
+            }
+        ]
+    },
+    {
+        "product_id": 74,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 56.53
+            },
+            {
+                "vendor": "ShopG",
+                "price": 48.54
+            }
+        ]
+    },
+    {
+        "product_id": 75,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 58.84
+            },
+            {
+                "vendor": "ShopC",
+                "price": 84.46
+            }
+        ]
+    },
+    {
+        "product_id": 76,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 95.49
+            },
+            {
+                "vendor": "ShopA",
+                "price": 14.27
+            }
+        ]
+    },
+    {
+        "product_id": 77,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 47.7
+            },
+            {
+                "vendor": "ShopG",
+                "price": 37.41
+            }
+        ]
+    },
+    {
+        "product_id": 78,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 28.21
+            },
+            {
+                "vendor": "ShopE",
+                "price": 17.67
+            }
+        ]
+    },
+    {
+        "product_id": 79,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 68.53
+            },
+            {
+                "vendor": "ShopG",
+                "price": 82.51
+            }
+        ]
+    },
+    {
+        "product_id": 80,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 40.78
+            },
+            {
+                "vendor": "ShopF",
+                "price": 61.79
+            }
+        ]
+    },
+    {
+        "product_id": 81,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 5.95
+            },
+            {
+                "vendor": "ShopC",
+                "price": 77.03
+            }
+        ]
+    },
+    {
+        "product_id": 82,
+        "prices": [
+            {
+                "vendor": "ShopG",
+                "price": 74.24
+            },
+            {
+                "vendor": "ShopE",
+                "price": 21.79
+            }
+        ]
+    },
+    {
+        "product_id": 83,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 18.81
+            },
+            {
+                "vendor": "ShopE",
+                "price": 64.09
+            }
+        ]
+    },
+    {
+        "product_id": 84,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 19.8
+            },
+            {
+                "vendor": "ShopC",
+                "price": 57.05
+            }
+        ]
+    },
+    {
+        "product_id": 85,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 59.72
+            },
+            {
+                "vendor": "ShopE",
+                "price": 22.88
+            }
+        ]
+    },
+    {
+        "product_id": 86,
+        "prices": [
+            {
+                "vendor": "ShopD",
+                "price": 88.32
+            },
+            {
+                "vendor": "ShopC",
+                "price": 84.1
+            }
+        ]
+    },
+    {
+        "product_id": 87,
+        "prices": [
+            {
+                "vendor": "ShopC",
+                "price": 6.26
+            },
+            {
+                "vendor": "ShopB",
+                "price": 78.15
+            }
+        ]
+    },
+    {
+        "product_id": 88,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 38.33
+            },
+            {
+                "vendor": "ShopG",
+                "price": 87.12
+            }
+        ]
+    },
+    {
+        "product_id": 89,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 70.68
+            },
+            {
+                "vendor": "ShopF",
+                "price": 22.91
+            }
+        ]
+    },
+    {
+        "product_id": 90,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 8.05
+            },
+            {
+                "vendor": "ShopF",
+                "price": 96.54
+            }
+        ]
+    },
+    {
+        "product_id": 91,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 40.68
+            },
+            {
+                "vendor": "ShopE",
+                "price": 73.27
+            }
+        ]
+    },
+    {
+        "product_id": 92,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 51.27
+            },
+            {
+                "vendor": "ShopC",
+                "price": 74.09
+            }
+        ]
+    },
+    {
+        "product_id": 93,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 40.82
+            },
+            {
+                "vendor": "ShopG",
+                "price": 94.32
+            }
+        ]
+    },
+    {
+        "product_id": 94,
+        "prices": [
+            {
+                "vendor": "ShopH",
+                "price": 85.34
+            },
+            {
+                "vendor": "ShopB",
+                "price": 37.81
+            }
+        ]
+    },
+    {
+        "product_id": 95,
+        "prices": [
+            {
+                "vendor": "ShopF",
+                "price": 67.95
+            },
+            {
+                "vendor": "ShopG",
+                "price": 41.43
+            }
+        ]
+    },
+    {
+        "product_id": 96,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 51.19
+            },
+            {
+                "vendor": "ShopF",
+                "price": 61.48
+            }
+        ]
+    },
+    {
+        "product_id": 97,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 5.95
+            },
+            {
+                "vendor": "ShopC",
+                "price": 83.03
+            }
+        ]
+    },
+    {
+        "product_id": 98,
+        "prices": [
+            {
+                "vendor": "ShopA",
+                "price": 63.48
+            },
+            {
+                "vendor": "ShopC",
+                "price": 94.1
+            }
+        ]
+    },
+    {
+        "product_id": 99,
+        "prices": [
+            {
+                "vendor": "ShopB",
+                "price": 92.82
+            },
+            {
+                "vendor": "ShopE",
+                "price": 26.21
+            }
+        ]
+    },
+    {
+        "product_id": 100,
+        "prices": [
+            {
+                "vendor": "ShopE",
+                "price": 17.76
+            },
+            {
+                "vendor": "ShopB",
+                "price": 43.36
+            }
+        ]
+    }
+]

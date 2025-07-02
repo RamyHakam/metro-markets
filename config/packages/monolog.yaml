@@ -1,0 +1,48 @@
+monolog:
+    # list all your custom channels
+    channels: ['deprecation', 'scheduler', 'fetch_prices', 'process_prices', 'update_prices']
+
+    handlers:
+        deprecation:
+            type: stream
+            path: "%kernel.logs_dir%/deprecation.log"
+            level: debug
+            channels: ['deprecation']
+
+        scheduler:
+            type: stream
+            path: "%kernel.logs_dir%/scheduler.log"
+            level: debug
+            channels: ['scheduler']
+
+        fetch_prices:
+            type: stream
+            path: "%kernel.logs_dir%/fetch_prices.log"
+            level: debug
+            channels: ['fetch_prices']
+
+        process_prices:
+            type: stream
+            path: "%kernel.logs_dir%/process_prices.log"
+            level: debug
+            channels: ['process_prices']
+
+        update_prices:
+            type: stream
+            path: "%kernel.logs_dir%/update_prices.log"
+            level: debug
+            channels: ['update_prices']
+
+        # your “main” file (captures everything *except* the above channels)
+        main:
+            type: stream
+            path: "%kernel.logs_dir%/%kernel.environment%.log"
+            level: debug
+            # exclude the channels that already have their own file
+            channels: ["!deprecation", "!scheduler", "!fetch_prices", "!process_prices", "!update_prices", "!event"]
+
+        # console output
+        console:
+            type: console
+            process_psr_3_messages: false
+            channels: ["!event", "!doctrine", "!console"]

@@ -1,0 +1,7 @@
+services:
+    DummySdk\DummySdkClient: ~
+    App\Infrastructure\DataFixture\:
+        resource: '../../../DataFixture/*'
+        tags: ['doctrine.fixture.orm']
+        autowire: true
+        autoconfigure: false

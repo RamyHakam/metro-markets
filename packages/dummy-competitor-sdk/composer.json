@@ -1,0 +1,8 @@
+{
+    "name": "competitor1/dummy-priceing-sdk",
+    "description": "Dummy SDK for competitor 1",
+    "autoload": {
+        "psr-4": { "DummySdk\\": "src/" }
+    },
+    "require": {}
+}

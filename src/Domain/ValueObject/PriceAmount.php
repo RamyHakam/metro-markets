@@ -5,7 +5,7 @@ namespace App\Domain\ValueObject;
 final  readonly  class PriceAmount
 {
     private function __construct(
-        public float $amount,
+        public float $value,
     )
     {
     }
@@ -21,14 +21,13 @@ final  readonly  class PriceAmount
         return new self($rounded);
     }
 
-    public function getAmount(): float
+    public function getValue(): float
     {
-        return $this->amount;
+        return $this->value;
     }
 
     public function equals(PriceAmount $priceAmount): bool
     {
-        return $this->amount === $priceAmount->amount;
+        return $this->value === $priceAmount->value;
     }
-
 }

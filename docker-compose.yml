@@ -1,0 +1,45 @@
+version: '3.8'
+name: price_service
+services:
+  app:
+    container_name: price_service_app
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    volumes:
+      - .:/app
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      APP_ENV: dev
+      APP_DEBUG: 1
+      API_KEY:  52dd4d6d-c4e4-37d6-be2b-efe0bf4bf5ee
+      MESSENGER_FETCH_TRANSPORT_DSN: redis://redis:6379/messages/fetch
+      MESSENGER_PROCESS_TRANSPORT_DSN: redis://redis:6379/messages/process
+      MESSENGER_FAILED_TRANSPORT_DSN:  redis://redis:6379/messages/failed
+      DATABASE_URL: "mysql://root:StrongPassword@db:3306/price-service?serverVersion=9.3.0&charset=utf8mb4"
+      REDIS_URL: redis://redis:6379
+    depends_on:
+      - redis
+
+  redis:
+      image: redis:7-alpine
+      container_name: price_service_redis
+      restart: unless-stopped
+
+  db:
+      image: mysql:8.0
+      container_name: price_service_db
+      restart: unless-stopped
+      environment:
+          MYSQL_ROOT_PASSWORD: StrongPassword
+          MYSQL_DATABASE: price-service
+      ports:
+          - "3306:3306"
+      volumes:
+          - db_data:/var/lib/mysql
+
+volumes:
+    db_data:
+
