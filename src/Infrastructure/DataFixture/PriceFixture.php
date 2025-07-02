@@ -10,7 +10,7 @@ class PriceFixture extends Fixture
 {
     public function load(ObjectManager $manager): void
     {
-         PriceEntityFactory::createMany(3);
+         PriceEntityFactory::createMany(30);
         $manager->flush();
     }
 }

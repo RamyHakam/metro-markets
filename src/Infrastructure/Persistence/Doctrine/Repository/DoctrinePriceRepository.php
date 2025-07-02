@@ -25,10 +25,11 @@ class DoctrinePriceRepository extends ServiceEntityRepository implements PriceRe
     public function saveOrUpdate(Price $price): void
     {
         // Check if the entity already exists in the database
+        /* @var PriceEntity|null $existingEntity */
         $existingEntity = $this->findOneBy(['productId' => $price->productId->getValue()]);
         if ($existingEntity) {
             // If it exists, update the existing entity
-            $existingEntity->setAmount($price->priceAmount->getValue());
+            $existingEntity->setPrice($price->priceAmount->getValue());
             $existingEntity->setVendorName($price->vendorName);
             $existingEntity->setFetchedAt($price->fetchedAt);
             $this->registry->getManager()->persist($existingEntity);

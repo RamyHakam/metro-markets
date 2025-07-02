@@ -11,7 +11,7 @@ class CompetitorProductFixture extends Fixture implements DependentFixtureInterf
 {
     public function load(ObjectManager $manager): void
     {
-         CompetitorProductEntityFactory::createMany(3);
+         CompetitorProductEntityFactory::createMany(30);
         $manager->flush();
     }
 

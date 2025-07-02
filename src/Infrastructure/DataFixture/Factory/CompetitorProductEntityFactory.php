@@ -31,7 +31,7 @@ final class CompetitorProductEntityFactory extends PersistentProxyObjectFactory
      * @todo add your default values here
      */
     protected function defaults(): array|callable
-    {
+    {  // TODO: prevent Duplicate CompetitorProductEntity per Product
         return [
             'competitorType' => self::faker()->randomElement(CompetitorTypeEnum::cases()),
             'price' => PriceEntityFactory::random()

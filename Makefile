@@ -37,6 +37,12 @@ db-migrate:
 	$(DOCKER_APP_EXEC) bin/console doctrine:migrations:migrate --no-interaction
 
 fixtures:
+	@echo "Dropping schema..."
+	$(DOCKER_APP_EXEC) bin/console doctrine:schema:drop --force --no-interaction
+
+	@echo "Creating schema..."
+	$(DOCKER_APP_EXEC) bin/console doctrine:schema:create --no-interaction
+
 	@echo "Loading fixtures..."
 	$(DOCKER_APP_EXEC) bin/console doctrine:fixtures:load --no-interaction
 

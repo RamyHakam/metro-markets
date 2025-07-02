@@ -15,9 +15,9 @@ services:
       APP_ENV: dev
       APP_DEBUG: 1
       API_KEY:  52dd4d6d-c4e4-37d6-be2b-efe0bf4bf5ee
-      MESSENGER_FETCH_TRANSPORT_DSN: redis://redis:6379/messages/fetch
-      MESSENGER_PROCESS_TRANSPORT_DSN: redis://redis:6379/messages/process
-      MESSENGER_FAILED_TRANSPORT_DSN:  redis://redis:6379/messages/failed
+      MESSENGER_FETCH_TRANSPORT_DSN: redis://redis:6379/1/messages/fetch
+      MESSENGER_PROCESS_TRANSPORT_DSN: redis://redis:6379/2/messages/process
+      MESSENGER_FAILED_TRANSPORT_DSN:  redis://redis:6379/3/messages/failed
       DATABASE_URL: "mysql://root:StrongPassword@db:3306/price-service?serverVersion=9.3.0&charset=utf8mb4"
       REDIS_URL: redis://redis:6379
     depends_on:
